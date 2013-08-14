@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Infinity Squared\n"
+"POT-Creation-Date: 2013-08-11 18:31+0100\n"
+"PO-Revision-Date: 2013-08-13 12:40+0100\n"
+"Last-Translator: Tom Slominski <me@tomslominski>\n"
+"Language-Team: Tom Slominski <me@tomslominski.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: yourls__;yourls_e;yourls_s;yourls_se;"
+"yourls_esc_attr__;yourls_esc_html__;yourls_x;yourls_ex;yourls_esc_attr_x;"
+"yourls_esc_html_x;yourls_n:1,2;yourls_nx:1,2;yourls_n_noop:1,2;"
+"yourls_nx_noop:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Language: pl_PL\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:41
+msgid "An error has occured :("
+msgstr "Wystąpił błąd :("
+
+#: index.php:43
+msgid "added to database"
+msgstr "dodane do bazy danych"
+
+#: index.php:44
+msgid "URL shortened successfully"
+msgstr "URL skrócone skutecznie"
+
+#: index.php:44
+msgid "View the details of your short URL below."
+msgstr "Zobacz detale twojego skróconego URL poniżej."
+
+#: index.php:45
+msgid "already exists in database"
+msgstr "już istnieje w bazie danych"
+
+#: index.php:46
+msgid ""
+"This URL already exists in this database. This website does not allow a "
+"single URL to have multiple short links."
+msgstr ""
+"Ten adres już istnieje w bazie danych. Ta strona nie pozwala na nadanie "
+"kilka krótkich adresów to tego samego długiego adresu."
+
+#: index.php:47
+msgid "Short URL"
+msgstr "Skrócone URL"
+
+#: index.php:47
+msgid "already exists in database or is reserved"
+msgstr "już istnieje w bazie danych lub jest zarezerwowane"
+
+#: index.php:48
+msgid ""
+"This short URL already exists in this database or is reserved. This website "
+"does not allow a single URL to have multiple short links. It could've also "
+"been reserved by the admin."
+msgstr ""
+"Te skrócone URL już istnieje w bazie danych lub jest zarezerwowane. Ta "
+"strona nie pozwala na nadanie kilka krótkich adresów to tego samego długiego "
+"adresu. Może zostało zarezerwowane przez administratora."
+
+#: index.php:49
+msgid "Missing URL input"
+msgstr "Brak URL"
+
+#: index.php:50
+msgid ""
+"You did not enter the URL you want to shorten or the server lost it. Please "
+"try again."
+msgstr "Nie wpisałeś URL do skrócenia lub serwer je zgubił. Spróbuj ponownie."
+
+#: index.php:51
+msgid "This URL is a short URL"
+msgstr "Te URL już zostało skrócone"
+
+#: index.php:52
+msgid "You cannot shorten a short URL!"
+msgstr "Nie możesz skrócić krótkiego URL!"
+
+#: index.php:121
+msgid "QR code"
+msgstr "Kod QR"
+
+#: index.php:121
+msgid "Share your code with external devices"
+msgstr "Podziel się adresem ze zewnętrznymi urządzeniami"
+
+#: index.php:123
+msgid "Original URL:"
+msgstr "Pierwotne URL:"
+
+#: index.php:124
+msgid "Short URL:"
+msgstr "Skrócone URL:"
+
+#. translators: This is short for statistics
+#: index.php:126
+msgid "Stats:"
+msgstr "Statystyki:"
+
+#: index.php:127
+msgid "Click on a link and press Ctrl+C to quickly copy it"
+msgstr "Kliknij na URL i naciśnij Ctrl+C aby szybko je skopiować"
+
+#: index.php:128
+msgid "Share"
+msgstr "Podziel się"
+
+#: index.php:129
+msgid "Share your short URL"
+msgstr "Podziel się swoim krótkim URL"
+
+#: index.php:155
+msgid "Enter a new URL to shorten"
+msgstr "Wpisz nowe krótkie URL do skrócenia"
+
+#: index.php:156
+msgid "Hover over the labels to see more information"
+msgstr "Zawieś kursor nad etykietami aby zobaczyć więcej informacji"
+
+#: index.php:157
+msgid "Long URL (required):"
+msgstr "Długie URL (wymagane):"
+
+#: index.php:158
+msgid "Paste the long URL here"
+msgstr "Wklej tutaj długie URL"
+
+#: index.php:159
+msgid "Custom keyword:"
+msgstr "Własne hasło:"
+
+#: index.php:160
+msgid "A keyword replaces the default short string"
+msgstr "Własne hasło zamienia litery po adresie domeny"
+
+#: index.php:161
+msgid "Optional title:"
+msgstr "Opcjonalny tytuł:"
+
+#: index.php:162
+msgid "Optional title used when sharing a link from YOURLS"
+msgstr "Opcjonalny tytuł używany podczas dzielenia się linkiem z YOURLS"
+
+#: index.php:163
+msgid "Shorten"
+msgstr "Skróć"
+
+#: index.php:181
+msgid "The bookmarklets"
+msgstr "Bookmarklety"
+
+#: index.php:182
+msgid ""
+"To use the bookmarklets drag them to your bookmark bar or simply right click "
+"on them and select the appropriate option."
+msgstr ""
+"Aby użyć bookmarklety zaciągnij je na swój pasek zakładek lub po prostu "
+"kliknij prawym przyciskiem myszki na bookmarkleta i wybierz odpowiednią opcję"
+
+#: index.php:184
+msgid ""
+"Shortens the URL of the current site and opens a new tab with the details of "
+"the shortened URL."
+msgstr ""
+"Skraca adres bieżącej strony i otwiera nową zakładkę z detalami skróconego "
+"URL."
+
+#: index.php:184
+msgid "Simple Shorten"
+msgstr "Proste Skrócenie"
+
+#: index.php:185
+msgid "Opens a pop up with the short URL for the current page."
+msgstr "Otwiera okienko z krótkim URL bieżącej strony."
+
+#: index.php:185
+msgid "Instant Shorten"
+msgstr "Natychmiastowe Skrócenie"
+
+#: index.php:186
+msgid ""
+"Opens a popup which asks for the keyword for the current URL and opens a new "
+"tab with the details of the shortened URL."
+msgstr ""
+"Otwiera okienko które prosi o hasło do bieżącego adresu i otwiera nową "
+"zakładkę z detalami skróconego URL."
+
+#: index.php:186
+msgid "Custom Shorten"
+msgstr "Własne Skrócenie"
+
+#: index.php:187
+msgid ""
+"This prompts you for the keyword for the current page and then opens a pop "
+"up with the short URL of the current page."
+msgstr ""
+"To prosi cię o hasło do bieżącej strony i otwiera okienko z krótkim URL "
+"bieżącej strony."
+
+#: index.php:187
+msgid "Instant Custom Shorten"
+msgstr "Natychmiastowe Własne Skrócenie"
+
+#: index.php:191
+msgid ""
+"Powered by <a href=\"http://yourls.org/\">YOURLS</a>. Design by <a href="
+"\"http://tomslominski.net/\">Tom Slominski</a>. Also used: <a href=\"http://"
+"formalize.me/\">Formalize</a> and <a href=\"http://qtip2.com/\">qTip²</a>. "
+"Find this theme on <a href=\"https://github.com/tomslominski/infinity-squared"
+"\">GitHub</a>."
+msgstr ""
+"Zasilane przez <a href=\"http://yourls.org/\">YOURLS</a>. Dizajn przez <a "
+"href=\"http://tomslominski.net/\">Tom Slominski</a>. Również użyte: <a href="
+"\"http://formalize.me/\">Formalize</a> i <a href=\"http://qtip2.com/"
+"\">qTip²</a>. Znajdź ten dizajn na <a href=\"https://github.com/tomslominski/"
+"infinity-squared\">GitHub</a>."
