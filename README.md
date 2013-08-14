@@ -1,4 +1,4 @@
-Polish translation for Infinity Squared
+Polskie tłumaczenie Infinity Squared
 =======================================
 
 Polskie tłumaczenie do stylu strony publicznej Infinity Squared, do YOURLS.
